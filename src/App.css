@@ -1,0 +1,29 @@
+
+div {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f9;
+  margin: 0;
+}
+input {
+  padding: 10px;
+  margin: 20px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 200px;
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 24px;
+  color: #333333;
+  text-align: center;
+  margin-top: 20px;
+  word-wrap: break-word;
+}
+
